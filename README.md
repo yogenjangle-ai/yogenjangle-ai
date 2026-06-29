@@ -91,7 +91,6 @@ Engineering
 
 # 🚀 Current Focus
 
-* Building AI-powered applications
 * Exploring robotics concepts and autonomous systems
 * Strengthening Machine Learning & Deep Learning fundamentals
 * Developing real-world AI projects
